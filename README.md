@@ -4,4 +4,4 @@ This was a project that I completed during my time working at Kik. I designed an
 
 Everything was written in Objective C using Xcode. The UI was done using StoryBoard.
 
-You will find some pictures and a demo video taken from the simulator.
+You will find some pictures [here](https://github.com/wesleymccloy/Kik-for-the-Apple-Watch/wiki) and a demo video taken from the simulator [here](https://drive.google.com/file/d/0B7qqm6-OAZD9SzJfVTNBSFBGQ1k/view?usp=sharing).
